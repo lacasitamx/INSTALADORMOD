@@ -1,0 +1,2 @@
+# INSTALADORMOD
+Instalador script lacasitamx
